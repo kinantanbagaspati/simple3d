@@ -1,0 +1,7 @@
+1. 
+Catat semua titik sudut yang diperlukan dalam koordinat 3 dimensi.
+Koordinat ini juga diikuti oleh 3 buah pecahan yang menandakan nilai rgb
+Kemudian saya memilih tiap 3 titik untuk dimunculkan sisi segitiga dengan warna sesuai 3 titik sudutnya
+2. 
+Ubah titik yang ada menjadi koordinat limas
+Lakukan hal yang serupa dengan pada box
